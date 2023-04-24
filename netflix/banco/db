@@ -1,0 +1,6 @@
+CREATE DATABASE netflix;
+
+CREATE TABLE tbl_cadastros ( id_cad int primary key auto_increment,
+email VARCHAR (255),
+senha VARCHAR (8)
+);
