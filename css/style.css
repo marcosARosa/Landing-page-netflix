@@ -48,7 +48,7 @@ span .plano-saiba-m:hover{
 /* Inicio Nav */
 
 .fundo{
-    background: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url(imagens/fundo-netflix.jpg);
+    background: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url(../imagens/fundo-netflix.jpg);
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
